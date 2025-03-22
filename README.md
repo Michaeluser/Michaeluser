@@ -1,6 +1,9 @@
-## Hi there 👋
+Greetings! 
+My name is Mykhailo Chepara. 
+I'm a student of Slovak Technical University of Bratislava, currently studying at Faculty of Informatics and Information Technologies.
+I'm interested in Data Analysis 
 
-<!--
+<!-- 
 **Michaeluser/Michaeluser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
