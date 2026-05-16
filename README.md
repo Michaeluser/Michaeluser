@@ -1,7 +1,10 @@
 Greetings! 
 My name is Mykhailo Chepara.                                                
 I'm a student of Slovak Technical University of Bratislava, currently studying at Faculty of Informatics and Information Technologies.                                                                  
-My interests include AI/ML Engineering, Data Analysis, Data Science as well as working, occasionally on small pet projects.
+
+Passionate about AI/ML, deep learning, and data science. I enjoy building things from scratch — from manual backpropagation to custom clustering algorithms — and experimenting with model architectures and optimization strategies to understand what actually works and why. I've been exploring deep learning for time series prediction and metaheuristic optimization for NP-hard problems.
+Projects include a from-scratch MLP, LSTM network for cryptocurrency price prediction, hierarchical clustering with a C performance backend, a TSP solver combining genetic algorithms and simulated annealing, and an end-to-end medical data science pipeline built with scikit-learn.
+
 
 <!-- 
 **Michaeluser/Michaeluser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
