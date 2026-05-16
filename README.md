@@ -1,7 +1,7 @@
 Greetings! 
 My name is Mykhailo Chepara.                                                
 I'm a student of Slovak Technical University of Bratislava, currently studying at Faculty of Informatics and Information Technologies.                                                                  
-My interests include Data Analysis and Data Science as well as working, occasionally on small pet projects.
+My interests include AI/ML Engineering, Data Analysis, Data Science as well as working, occasionally on small pet projects.
 
 <!-- 
 **Michaeluser/Michaeluser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
